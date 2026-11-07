@@ -1,0 +1,147 @@
+================================================================================
+FACTORYFLOW ERP -- OFFICIAL CLIENT PRESENTATION VIDEO SCRIPT
+Product: AI-Powered Make-to-Order Manufacturing ERP for Egypt
+Target Market: Egyptian Manufacturing Factories (10th of Ramadan / 6th of October)
+Format: 1920x1080 Full HD | 30 FPS | MP4 | Professional English Voice-Over
+================================================================================
+
+--------------------------------------------------------------------------------
+SCENE 1: PRODUCT INTRODUCTION [00:00 - 00:27]
+--------------------------------------------------------------------------------
+ON-SCREEN DISPLAY:
+Header: FACTORYFLOW ERP | SCENE 1: PRODUCT INTRODUCTION | EGYPT MTO EDITION
+Visual: FactoryFlow ERP 01_intro_title.png (1920x1080 Full HD actual ERP screen capture)
+Caption: Welcome to FactoryFlow ERP -- an AI-Powered Make-to-Order Manufacturing ERP for Egyptian Factories.
+
+NARRATION:
+"Welcome to FactoryFlow ERP. An intelligent, production-ready Make-to-Order Manufacturing ERP platform engineered specifically for Egyptian industrial factories. In Make-to-Order manufacturing, production is initiated solely by authorized customer contracts, eliminating unwanted inventory costs and providing complete end-to-end traceability from customer quotation to final delivery."
+
+AUDIO CUE:
+Soft corporate ambient pad mixed at -20dB underneath voiceover.
+
+--------------------------------------------------------------------------------
+SCENE 2: LOGIN & EXECUTIVE DASHBOARD [00:27 - 00:58]
+--------------------------------------------------------------------------------
+ON-SCREEN DISPLAY:
+Header: FACTORYFLOW ERP | SCENE 2: EXECUTIVE DASHBOARD | 10TH OF RAMADAN CITY
+Visual: FactoryFlow ERP 02_dashboard_overview.png (1920x1080 Full HD actual ERP screen capture)
+Caption: Real-time visibility: confirmed orders, active production jobs, material shortages, and live machine utilization.
+
+NARRATION:
+"We begin on the FactoryFlow Executive Dashboard for Al-Ahram Engineering and Metal Industries, based in the Tenth of Ramadan City. The dashboard provides factory executives with real-time operational visibility: total confirmed orders, active shop-floor jobs, critical raw material shortages, work center capacity loads, and net profitability. All financial metrics are calculated in Egyptian Pounds with full Cairo timezone integration."
+
+AUDIO CUE:
+Soft corporate ambient pad mixed at -20dB underneath voiceover.
+
+--------------------------------------------------------------------------------
+SCENE 3: CRM & SALES ORDERS [00:58 - 01:29]
+--------------------------------------------------------------------------------
+ON-SCREEN DISPLAY:
+Header: FACTORYFLOW ERP | SCENE 3: CRM & SALES ORDERS | EGYPTIAN TRN & 14% VAT
+Visual: FactoryFlow ERP 03_sales_crm_orders.png (1920x1080 Full HD actual ERP screen capture)
+Caption: Egyptian Tax Registration (TRN), Commercial Registration, multi-level BOM cost estimation, and quotations.
+
+NARRATION:
+"In the Sales and CRM module, factory teams manage customer accounts, commercial records, and Egyptian Tax Registration numbers. When a client requests custom electrical switchgear or metal assemblies, sales engineers generate detailed engineering quotations. FactoryFlow calculates estimated material and labor costs directly from technical specifications, automatically computing the statutory fourteen percent Egyptian Value Added Tax."
+
+AUDIO CUE:
+Soft corporate ambient pad mixed at -20dB underneath voiceover.
+
+--------------------------------------------------------------------------------
+SCENE 4: MAKE-TO-ORDER WORKFLOW [01:29 - 02:11]
+--------------------------------------------------------------------------------
+ON-SCREEN DISPLAY:
+Header: FACTORYFLOW ERP | SCENE 4: MAKE-TO-ORDER CORE ENGINE | BOM & ALLOCATION
+Visual: FactoryFlow ERP 04_engineering_bom.png (1920x1080 Full HD actual ERP screen capture)
+Caption: Atomic MTO Trigger: multi-level BOM explosion, stock reservation, and automatic shortage purchase requisitions.
+
+NARRATION:
+"Now we examine the core engine of FactoryFlow: the Make-to-Order manufacturing workflow. When a sales order is confirmed, FactoryFlow executes an atomic transaction. It explodes the multi-level Bill of Materials into every required component, such as cold rolled steel sheets, copper busbars, fasteners, and powder coating. The system immediately cross-references warehouse balances. Available materials are locked and reserved exclusively for this sales order, preventing material poaching between jobs. Any deficit automatically triggers an urgent Purchase Request tagged directly to the customer order."
+
+AUDIO CUE:
+Soft corporate ambient pad mixed at -20dB underneath voiceover.
+
+--------------------------------------------------------------------------------
+SCENE 5: PRODUCTION & SHOP FLOOR [02:11 - 02:44]
+--------------------------------------------------------------------------------
+ON-SCREEN DISPLAY:
+Header: FACTORYFLOW ERP | SCENE 5: SHOP FLOOR PRODUCTION | JOB CARDS & ROUTING
+Visual: FactoryFlow ERP 05_mto_production_orders.png (1920x1080 Full HD actual ERP screen capture)
+Caption: Work center scheduling, digital job cards, operator labor tracking, and in-process quality inspection.
+
+NARRATION:
+"Production orders are automatically dispatched across factory work centers: CNC Fiber Laser cutting, hydraulic bending, robotic welding, electrostatic powder coating, assembly, and testing. Each routing operation generates a digital Job Card assigned to certified technicians. As operators record their actual machine setup and run times, FactoryFlow logs direct labor and machine overhead costs, tracking WIP progression and scrap quantities in real time."
+
+AUDIO CUE:
+Soft corporate ambient pad mixed at -20dB underneath voiceover.
+
+--------------------------------------------------------------------------------
+SCENE 6: INVENTORY & PROCUREMENT [02:44 - 03:12]
+--------------------------------------------------------------------------------
+ON-SCREEN DISPLAY:
+Header: FACTORYFLOW ERP | SCENE 6: INVENTORY & PROCUREMENT | MTO STOCK ALLOCATION
+Visual: FactoryFlow ERP 06_inventory_reservations.png (1920x1080 Full HD actual ERP screen capture)
+Caption: Order-specific stock reservations, vendor purchase orders (14% VAT / 1% WHT), and Goods Receipt Notes (GRN).
+
+NARRATION:
+"In the Inventory and Procurement modules, warehouse operations exist to support Make-to-Order fulfillment rather than speculative finished goods storage. Procurement managers issue purchase orders to Egyptian suppliers with standard fourteen percent VAT and one percent Withholding Tax. When materials arrive at the warehouse, Goods Receipt Notes record batch and lot numbers, replenishing stock and fulfilling active order reservations."
+
+AUDIO CUE:
+Soft corporate ambient pad mixed at -20dB underneath voiceover.
+
+--------------------------------------------------------------------------------
+SCENE 7: FINANCE & ETA E-INVOICING [03:12 - 03:42]
+--------------------------------------------------------------------------------
+ON-SCREEN DISPLAY:
+Header: FACTORYFLOW ERP | SCENE 7: FINANCE & ETA E-INVOICING | ACTUAL COGS COSTING
+Visual: FactoryFlow ERP 08_finance_eta_invoices.png (1920x1080 Full HD actual ERP screen capture)
+Caption: Actual Cost of Goods Sold (Materials + Labor + Overhead), ETA v1.0 e-invoicing JSON with UUID, and payment tracking.
+
+NARRATION:
+"The Finance module enforces complete cost transparency and Egyptian regulatory compliance. FactoryFlow calculates true Cost of Goods Sold for every customer order, combining actual direct materials, technician labor, and machine depreciation. Customer invoices are issued with unique cryptographic UUIDs, EGS item coding, and full schema compatibility for the Egyptian Tax Authority Version 1.0 e-invoicing portal."
+
+AUDIO CUE:
+Soft corporate ambient pad mixed at -20dB underneath voiceover.
+
+--------------------------------------------------------------------------------
+SCENE 8: AI MANUFACTURING COPILOT [03:42 - 04:12]
+--------------------------------------------------------------------------------
+ON-SCREEN DISPLAY:
+Header: FACTORYFLOW ERP | SCENE 8: AI MANUFACTURING COPILOT | SECURE ERP TOOLS
+Visual: FactoryFlow ERP 12_ai_manufacturing_copilot.png (1920x1080 Full HD actual ERP screen capture)
+Caption: Bilingual natural language copilot querying live ERP database metrics with zero hallucinations.
+
+NARRATION:
+"FactoryFlow features a built-in bilingual AI Manufacturing Assistant. Plant managers and executives can ask operational questions in plain English or Arabic, such as identifying delayed jobs, analyzing material shortages, or calculating actual production margins. The AI retrieves real authorized ERP database metrics through secure backend tools, delivering exact figures without guesswork or hallucinations."
+
+AUDIO CUE:
+Soft corporate ambient pad mixed at -20dB underneath voiceover.
+
+--------------------------------------------------------------------------------
+SCENE 9: BILINGUAL LOCALIZATION [04:12 - 04:36]
+--------------------------------------------------------------------------------
+ON-SCREEN DISPLAY:
+Header: FACTORYFLOW ERP | SCENE 9: BILINGUAL LOCALIZATION | NATIVE ARABIC RTL
+Visual: FactoryFlow ERP 13_arabic_rtl_interface.png (1920x1080 Full HD actual ERP screen capture)
+Caption: One-click language switcher, authentic industrial Arabic translation, native RTL layout, and EGP formatting.
+
+NARRATION:
+"Engineered specifically for Egyptian factories, FactoryFlow features an instant language switcher. With a single click, the entire interface transforms into authentic Arabic with native Right-to-Left layout mirroring, industrial terminology, and localized Egyptian Pound and date formatting, ensuring seamless adoption for both floor technicians and senior management."
+
+AUDIO CUE:
+Soft corporate ambient pad mixed at -20dB underneath voiceover.
+
+--------------------------------------------------------------------------------
+SCENE 10: ENTERPRISE PLATFORM SUMMARY [04:36 - 05:00]
+--------------------------------------------------------------------------------
+ON-SCREEN DISPLAY:
+Header: FACTORYFLOW ERP | SCENE 10: ENTERPRISE PLATFORM | SUMMARY & CONCLUSION
+Visual: FactoryFlow ERP 15_closing_branding.png (1920x1080 Full HD actual ERP screen capture)
+Caption: One Platform. Complete Factory Management. Built for Egyptian Make-to-Order Manufacturing.
+
+NARRATION:
+"FactoryFlow ERP delivers one unified platform for complete factory management. Built specifically for Make-to-Order manufacturing, and tailored for the Egyptian manufacturing market. FactoryFlow ERP empowers factories to streamline operations, eliminate inventory waste, and achieve complete profitability control."
+
+AUDIO CUE:
+Soft corporate ambient pad mixed at -20dB underneath voiceover.
+

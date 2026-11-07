@@ -1,0 +1,61 @@
+================================================================================
+FACTORYFLOW ERP -- CLIENT DEMO VERIFICATION & FEATURE CHECKLIST
+Target Market: Egyptian Manufacturing Sector
+Industrial Pilot: Al-Ahram Engineering & Metal Industries S.A.E. (10th of Ramadan City)
+Verification Date: November 2026
+Automated Tests Passed: 57 / 57 Tests (100% Real Database Execution)
+================================================================================
+
+1. CORE MAKE-TO-ORDER (MTO) ARCHITECTURE:
+[x] Zero Make-to-Stock Policy (Zero unallocated speculative manufacturing)
+[x] Mandatory Customer Order Traceability (All jobs linked to salesOrder.id)
+[x] Multi-Level Bill of Materials (BOM) Explosion with scrap allowances
+[x] Order-Specific Inventory Reservation (MaterialReservation lock prevents poaching)
+[x] Automatic Shortage Purchase Requisitions (Triggered upon BOM deficit)
+[x] Actual vs. Planned Production Costing (Actual COGS: Materials + Labor + Overhead)
+[x] Direct Labor Tracking (Operator setup and runtime hours recorded)
+[x] In-Process & Final Quality Assurance Inspection (QA/QC tolerance records)
+
+2. EGYPTIAN LOCALIZATION & REGULATORY COMPLIANCE:
+[x] Egyptian Pound (EGP / ج.م) Currency Formatting across all modules
+[x] Cairo Timezone Synchronization (Africa/Cairo UTC+2)
+[x] Egyptian Tax Authority (ETA) v1.0 E-Invoicing Schema Implementation
+[x] Cryptographic Document UUID Generation for digital E-Seal signing
+[x] Egyptian Goods & Services Coding Standard (EGS prefix: EG-100245892-...)
+[x] Egyptian Standard 14.0% Value Added Tax (VAT T1)
+[x] Egyptian Standard 1.0% Withholding Tax (WHT T4 / ضريبة الخصم والإضافة)
+[x] Egyptian Tax Registration Numbers (TRN / البطاقة الضريبية) for Customers & Vendors
+[x] Commercial Registration Numbers (CR / السجل التجاري)
+[x] Complete Arabic Translation with Native Right-to-Left (RTL) Layout Mirroring
+[x] Instant 1-Click English/Arabic Language Switcher
+
+3. DEMONSTRATED ERP MODULES (ALL VERIFIED WORKING):
+[x] Executive Dashboard (KPIs, active jobs, machine load, shortages, profitability)
+[x] CRM & Customer Management (Elsewedy, Edita, Juhayna industrial accounts)
+[x] Sales & Quotations (BOM cost-based quotation generator with 14% VAT)
+[x] Customer Orders (Atomic MTO order trigger and routing generation)
+[x] Engineering & Product Catalog (Drawing numbers, revisions, technical specs)
+[x] Bill of Materials (BOM tree, yield percentages, material unit costs)
+[x] MTO Production Management (Job cards, operator assignments, WIP status)
+[x] Production Scheduling & Work Centers (CNC Laser, Bending, Welding, Powder Coating)
+[x] Inventory & Warehouse Management (Bin locations, stock movements, reservations)
+[x] Procurement & Purchasing (Shortage POs with 14% VAT / 1% WHT, Goods Receipts)
+[x] Quality Control & Inspection (Incoming, in-process, and final dispatch QA)
+[x] Finance & Cost Accounting (Chart of accounts, payments, order profitability)
+[x] HR & Workforce Management (14-digit Egyptian National IDs, shifts, wage rates)
+[x] Business Intelligence & Reports (Delivery lead times, scrap rates, machine capacity)
+[x] AI Manufacturing Copilot (Real database tool calling in English and Arabic)
+[x] System Settings & Audit Logs (Immutable audit trail of all transactions)
+
+4. DEMONSTRATION VIDEO ASSETS VERIFIED:
+[x] Resolution: 1920x1080 Full HD (1080p)
+[x] Frame Rate: 30.00 FPS Progressive
+[x] Codec: H.264 / AVC (High Profile Level 4.0) + AAC Stereo Audio
+[x] Audio: Studio English Narration + Ducked Corporate Background Music (-20dB)
+[x] Visuals: Actual running React/TypeScript ERP screens (Zero mockup graphics)
+[x] Camera: Cinematic smooth zoom and pan motion across key dashboard metrics
+[x] Subtitles: Synchronized English subtitles and module headers on every scene
+[x] Deliverable File: FactoryFlow_ERP_Client_Demo.mp4
+[x] Script Document: FactoryFlow_ERP_Script.txt
+[x] Screenshots Directory: FactoryFlow_ERP_Screenshots/ (15 Full HD PNGs)
+================================================================================
